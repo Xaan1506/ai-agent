@@ -1,0 +1,50 @@
+DEBUG: 🎯 Intent: RESEARCH
+DEBUG: 🔍 Researching: Namita Thapar
+DEBUG: 🔎 Global Search: looking for information on Namita Thapar...
+DEBUG: 🌐 Browsing: https://en.wikipedia.org/wiki/Namita_Thapar
+DEBUG: 🧠 Analyzing Wikipedia data...
+DEBUG: ✅ Fast lookup complete!
+
+--- FINAL REPORT ---
+
+**Namita Thapar Business Profile**
+
+**Role:** Business Executive, Entrepreneur, Angel Investor
+
+**Company:** 
+- **Emcure Pharmaceuticals**: Executive Director
+- **Thapar Entrepreneur Academy**: Founder
+
+**Net Worth:** Not Found
+
+**Industry:** Healthcare, Finance, Entrepreneurship
+
+**Key Achievements:**
+
+- **Emcure Pharmaceuticals**: CFO (Chief Financial Officer) and Executive Director
+- **Shark Tank India**: Investor in over 100 companies
+- **Thapar Entrepreneur Academy**: Founder
+
+**Education:**
+
+- **Fuqua School of Business, Brihan Maharashtra College of Commerce**: MBA (Master of Business Administration)
+- **Chartered Accountant from ICAI (Indian Institute of Chartered Accountants)**
+
+**Early Life:**
+
+- **Born:** 21 March 1977, Pune, Maharashtra, India
+- **Parents:** Satish Mehta (father) and Bhavana Mehta (mother)
+- **Brother:** Samit Mehta
+
+**Career:**
+
+- **Business Finance Head at Guidant Corporation**: 1996-2001
+- **CFO at Emcure Pharmaceuticals**: 2001-2016
+- **Executive Director at Emcure Pharmaceuticals**: 2016-present
+- **Angel Investor on Shark Tank India**: 2021-present
+
+**Personal Life:**
+
+- **Spouse:** Vikas Thapar
+- **Children:** Vir Thapar and Jai Thapar
+- **Married to:** Vikas Thapar since 2003
