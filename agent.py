@@ -1,7 +1,6 @@
 import os
 import asyncio
 from dotenv import load_dotenv
-from openclaw import OpenClaw
 from huggingface_hub import InferenceClient
 from playwright.async_api import async_playwright
 import json
